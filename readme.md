@@ -1,22 +1,22 @@
-# 🐍 Python Portfolio
+# 🐍 Python Portfolio – Hayes Gunther
 
-Welcome to my Python Portfolio! This repository showcases a collection of Python projects I've created to demonstrate my skills in programming, problem-solving, and working with various libraries and frameworks.
+Welcome to my Python Portfolio! This repository highlights a collection of projects completed in my Python programming course. Each section demonstrates core Python concepts such as data types, control structures, functions, file I/O, and more advanced topics like object-oriented programming and exception handling.
 
-## 📁 Projects Included
+## 📘 About the Portfolio
 
-- **Project 1: [Project Name]**
-  - Description: A brief summary of what the project does.
-  - Technologies used: Python, [e.g., Flask, Pandas, etc.]
-  - Key Features: [e.g., data analysis, web scraping, GUI interface, etc.]
+This Jupyter Notebook (`Hayes_Gunther_portfolio.ipynb`) serves as a summary of the major topics and skills I have developed in Python. The notebook is divided into clearly labeled sections with examples and explanations.
 
-- **Project 2: [Project Name]**
-  - Description: A brief summary of what the project does.
-  - Technologies used: Python, [e.g., Django, NumPy, etc.]
-  - Key Features: [e.g., automation, API integration, machine learning, etc.]
+## 🧠 Topics Covered
 
-*(Add more projects as needed)*
+- **Basic Syntax and Data Types**
+- **Control Flow (if statements, loops)**
+- **Functions and Parameters**
+- **File Handling (reading/writing files)**
+- **Object-Oriented Programming (OOP)**
+- **Error Handling with try/except**
+- **Working with External Libraries (e.g., `random`, `math`)**
 
-## 🚀 Getting Started
+## 🚀 How to Run
 
 1. Clone this repo:
    ```bash
